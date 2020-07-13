@@ -1,8 +1,3 @@
-/*
- * Copyright 2019 - MATTR Limited
- * All rights reserved
- * Confidential and proprietary
- */
 import * as React from "react";
 import { useContext, useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";

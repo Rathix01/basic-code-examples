@@ -1,8 +1,3 @@
-/*
- * Copyright 2019 - MATTR Limited
- * All rights reserved
- * Confidential and proprietary
- */
 import React, { useContext } from "react";
 import { SvgProps } from "react-native-svg";
 import { Dimensions, StyleProp, Text, TextStyle, View, ViewStyle, TouchableWithoutFeedback } from "react-native";

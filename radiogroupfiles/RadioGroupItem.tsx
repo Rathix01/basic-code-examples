@@ -1,8 +1,3 @@
-/*
- * Copyright 2019 - MATTR Limited
- * All rights reserved
- * Confidential and proprietary
- */
 import * as React from "react";
 import { TouchableOpacity } from "react-native-gesture-handler";
 import { StyleProp, View, ViewStyle } from "react-native";
